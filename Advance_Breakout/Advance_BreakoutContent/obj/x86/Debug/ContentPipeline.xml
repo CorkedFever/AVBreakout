@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\ammo_block.png</Source>
+      <Name>Sprites\ammo_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\ammo_block.xnb</Output>
+      <Time>2012-12-05T12:37:24.8772218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\bullet.xnb</Output>
+      <Time>2012-12-05T12:37:24.8782219-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\life_block.png</Source>
+      <Name>Sprites\life_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\life_block.xnb</Output>
+      <Time>2012-12-05T12:37:24.8792219-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Logo.png</Source>
+      <Name>Sprites\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\Logo.xnb</Output>
+      <Time>2012-12-05T12:37:24.881222-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\black_block.png</Source>
+      <Name>Sprites\black_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\black_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5214535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blue_block.png</Source>
+      <Name>Sprites\blue_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\blue_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5214535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\brown_block.png</Source>
+      <Name>Sprites\brown_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\brown_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5214535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\dark_purple_block.png</Source>
+      <Name>Sprites\dark_purple_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\dark_purple_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\green_block.png</Source>
+      <Name>Sprites\green_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\green_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\orange_block.png</Source>
+      <Name>Sprites\orange_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\orange_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\purple_block.png</Source>
+      <Name>Sprites\purple_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\purple_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\red_block.png</Source>
+      <Name>Sprites\red_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\red_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\teal_block.png</Source>
+      <Name>Sprites\teal_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\teal_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\yellow_block.png</Source>
+      <Name>Sprites\yellow_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\yellow_block.xnb</Output>
+      <Time>2012-10-19T20:05:08.5370535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ball.png</Source>
+      <Name>Sprites\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\ball.xnb</Output>
+      <Time>2012-10-19T20:08:41.0858272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\paddel.png</Source>
+      <Name>Sprites\paddel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\paddel.xnb</Output>
+      <Time>2012-10-19T20:08:58.0118569-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-10-29T14:58:31.3833543-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\glass_block.png</Source>
+      <Name>Sprites\glass_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\glass_block.xnb</Output>
+      <Time>2012-11-25T18:58:23.9018674-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\multi_block.png</Source>
+      <Name>Sprites\multi_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\multi_block.xnb</Output>
+      <Time>2012-11-25T18:58:23.9018674-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\indestruct_block.png</Source>
+      <Name>Sprites\indestruct_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\indestruct_block.xnb</Output>
+      <Time>2012-11-25T18:58:23.9018674-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\random_block.png</Source>
+      <Name>Sprites\random_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\random_block.xnb</Output>
+      <Time>2012-11-25T18:58:23.9018674-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\newpadell.png</Source>
+      <Name>Sprites\newpadell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Sprites\newpadell.xnb</Output>
+      <Time>2012-11-25T18:58:23.9174675-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Score.spritefont</Source>
+      <Name>Fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Fonts\Score.xnb</Output>
+      <Time>2012-11-14T15:09:58.5827255-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Dustin's Song.mp3</Source>
+      <Name>Music\Dustin's Song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Music\Dustin's Song.xnb</Output>
+      <Extra>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\Music\Dustin's Song.wma</Extra>
+      <Time>2012-12-01T23:19:32.8053718-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ballserve.wav</Source>
+      <Name>SoundEffects\ballserve</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\SoundEffects\ballserve.xnb</Output>
+      <Time>2012-12-01T23:41:21.5773447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\paddleBallHit.wav</Source>
+      <Name>SoundEffects\paddleBallHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\SoundEffects\paddleBallHit.xnb</Output>
+      <Time>2012-12-01T23:41:21.5773447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pop1.wav</Source>
+      <Name>SoundEffects\pop1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\SoundEffects\pop1.xnb</Output>
+      <Time>2012-12-01T23:41:21.5773447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pop2.wav</Source>
+      <Name>SoundEffects\pop2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\SoundEffects\pop2.xnb</Output>
+      <Time>2012-12-01T23:41:21.5929447-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_BreakoutContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_BreakoutContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\windows7\Documents\Visual Studio 2010\Projects\Advance_Breakout\Advance_Breakout\Advance_Breakout\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-19T13:58:19.5037502-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
